@@ -59,4 +59,3 @@ I look forward to hearing from you.`;
 
   window.open(whatsappURL, "_blank", "noopener,noreferrer");
 });
-￼Enter
